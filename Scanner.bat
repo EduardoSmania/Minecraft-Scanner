@@ -4,7 +4,7 @@ color 5
 echo. 
 echo.                       Scanner  
 echo. _________________________________________________________
-echo.
+echo Created by Edu
 echo Coloque o caminho do arquivo para detectar
 set /p pathFile=" Arquivo: "
 set susFound=a
